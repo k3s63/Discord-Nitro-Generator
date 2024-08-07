@@ -2,7 +2,7 @@
 
 This project is a tool to generate and check Discord Nitro codes. The script generates random Nitro codes, checks their validity, and optionally notifies you via a Discord webhook if a valid code is found. Valid codes are saved to a text file for later use.
 
-#Disclaimer 
+## Disclaimer 
 This tool is only for educational purpose to show the power of python.
 
 ## Features
