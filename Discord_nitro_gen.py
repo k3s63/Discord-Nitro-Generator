@@ -1,5 +1,7 @@
+#Don't copy this code 
+
 import webbrowser
-webbrowser.open("https://t.me/k3s63cc")
+webbrowser.open("https://t.me/pythontoolgod")
 
 import os
 os.system('pip install discord_webhook')
